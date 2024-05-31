@@ -1,0 +1,1 @@
+module.exports.auth = require("./admin.middleware");
